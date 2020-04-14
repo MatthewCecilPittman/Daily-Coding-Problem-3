@@ -1,4 +1,5 @@
 # Daily-Coding-Problem-#3
+/*Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s), which deserializes the string back into the tree.*/
 class Node {
     constructor(val, left = null, right = null) {
         this.val = val;
